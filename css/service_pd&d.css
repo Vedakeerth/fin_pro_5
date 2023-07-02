@@ -301,12 +301,6 @@ border-radius: 10px;
 
 /*--------------*/
 
-.what-1 {
-  height: 83vh;
-}
-
-
-
 .what-1 .border-pro {
   width: 200px;
   height: 5px;
@@ -332,7 +326,7 @@ border-radius: 10px;
 }
 
 .what-1 {
-  height: 490px;
+  height: 90vh;
   padding: 40px 20px 5px 20px;
 }
 
@@ -398,7 +392,7 @@ border-radius: 10px;
 
 .btn-1{
   padding: 70px;
-  padding-top: 45px;
+  padding-top: 0px;
   text-align: center;
   position: relative;
 }
