@@ -908,6 +908,7 @@ a:hover {
 }
 .content-section .content p {
   width: 100%;
+  font-family: "Poppins" , sans-serif;
 }
 .details {
   display: grid;
