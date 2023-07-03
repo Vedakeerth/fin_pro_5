@@ -1071,11 +1071,11 @@ a:hover {
 
 }
 .box1 {
-  width: 390px;
-  left: 70%;
+  width: 380px;
+  left: 82%;
   border: 1px solid #44e9ff;
   border-radius: 10px;
-  height: 45vh;
+  height: auto;
 }
 .container2 h2 {
   font-size: 30px;
@@ -1087,7 +1087,7 @@ a:hover {
 }
 .box2 {
   width: 390px;
-  left: 18px;
+  left: 8px;
   position: relative;
   margin-top: 10px;
   border: 1px solid #44e9ff;
