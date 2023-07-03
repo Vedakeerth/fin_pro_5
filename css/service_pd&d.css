@@ -325,7 +325,7 @@ border-radius: 10px;
 
 .why {
   padding-top: 70px;
-  margin-left: 30px;
+  /* margin-left: 30px; */
 }
 
 .what-1 {
@@ -848,7 +848,7 @@ a.back-btn {
 }
 .layer {
   width: 100%;
-  padding-left: 10px;
+  /* padding-left: 10px; */
 }
 .details-pd {
   height: 75vh;
@@ -874,7 +874,7 @@ a.back-btn {
   font-size: 20px;
 }
 .why .border-pro {
-  margin-left: 150px;
+  margin-left: 108px;
 }
 .row {
   display: flex;
@@ -885,7 +885,7 @@ a.back-btn {
 .serives-col img {
   padding: 15px;
   padding-top: 30px;
-  margin-left: 60px;
+  margin-left: 40px;
 }
 .what-1 img {
   height: 200px;
