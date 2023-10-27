@@ -1129,9 +1129,9 @@ footer .bottom-details .bottom_text{
 	z-index: 10;
 }
 
-.icon-bar a {
+.icon-bar a {   
 	text-decoration: none;
-	width: 210px;
+	width: 157px;
 	/*  background: #3b5999; */
 	color: #fff;
 	display: flex;
@@ -1140,9 +1140,9 @@ footer .bottom-details .bottom_text{
 	padding: 10px;
   padding-right: 7px;
   font-size: 16px;
-	transform: translateX(-170px);
-	-webkit-transform: translateX(-170px);
-	-ms-transform: translateX(-170px);
+	transform: translateX(-110px);
+	-webkit-transform: translateX(-110px);
+	-ms-transform: translateX(-110px);
 	transition: all 0.5s linear;
 	-webkit-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
@@ -1281,7 +1281,7 @@ a:hover {
     position: relative;
   }
   .border-pro-4 {
-    left: 98px;
+    left: 116;
     width: 181px;
     top: 18px;
     border-radius: 5px;

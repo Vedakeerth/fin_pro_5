@@ -180,7 +180,7 @@ html {
 
 .icon-bar a {
 	text-decoration: none;
-	width: 210px;
+	width: 148px;
 	/*  background: #3b5999; */
 	color: #fff;
 	display: flex;
@@ -189,9 +189,9 @@ html {
 	padding: 10px;
   padding-right: 7px;
   font-size: 16px;
-	transform: translateX(-170px);
-	-webkit-transform: translateX(-170px);
-	-ms-transform: translateX(-170px);
+	transform: translateX(-98px);
+	-webkit-transform: translateX(-98px);
+	-ms-transform: translateX(-98px);
 	transition: all 0.5s linear;
 	-webkit-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
