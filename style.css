@@ -14,10 +14,20 @@
   zoom: normal;
 }
 
+/*------
 body{
   margin: 0;
   overflow-x: hidden;
 }
+----*/
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background-image: url('background.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+}
+
 
 /*---------------Go back to top button-------------*/
 html { 
