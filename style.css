@@ -23,11 +23,9 @@ body{
 body {
   margin: 0;
   overflow-x: hidden;
-  background-image: url('Image/web-bg.png');
-  filter: brightness(60%);
+  background-image: url('Image/web-bg-1.jpg');
+  background-size: cover; 
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
 }
 
 
